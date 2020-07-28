@@ -12,23 +12,23 @@
     border-radius: 0;
   }
   
-  footer {
+footer {
     position: absolute;
     bottom:0;
     width: 100%;
     background-color: #f2f2f2;
-    padding: 20px;
+    padding: 10px;
   }
 .Skills{
     text-align: center;
     margin: auto;
-    font-size: 25px;
+    font-size: 15px;
 }
 .column{
     float: left;
   width: 20%;
   padding: 25px 20 20 10 ;
-  margin-left:250px;
+  margin-left:280px;
 }
 .row:after{
     content: "";
@@ -36,17 +36,40 @@
     clear: both;
 }
 .Skill{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 .column1{
     float:left;
     width:20%;
     padding: 10px 20 20 10 ;
-    margin-right: 5px;
+    margin-left: 40px;
 }
 .column3{
     float: left;
     padding:10px 20 20 10;
-    margin-left: 100px;
-    
+    margin-right: 10px;
+}
+.google{
+    padding-top: 10px;
+    border-radius: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+
+}
+.Name-side{
+    background-color: cadetblue;
+}
+
+.plot{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+#git{
+    padding-bottom: 2px;
+    width: 21px;
+    height: 21px;
 }
