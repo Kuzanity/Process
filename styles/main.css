@@ -1,0 +1,52 @@
+.blog{
+    color: black;
+    font-size: 25px;
+}
+.Blog{
+    margin: auto;
+    width: 10%;
+    padding: 10px;
+}
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+  
+  footer {
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+.Skills{
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+}
+.column{
+    float: left;
+  width: 20%;
+  padding: 25px 20 20 10 ;
+  margin-left:250px;
+}
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.Skill{
+    font-size: 20px;
+}
+.column1{
+    float:left;
+    width:20%
+    padding: 10px 20 20 10 ;
+    margin-right: 5px;
+}
+.column3{
+    float: left;
+    padding:10px 20 20 10;
+    margin-left: 100px;
+    
+}
